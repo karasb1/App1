@@ -11,7 +11,7 @@
                 result = result * 10 + number % 10;
                 number = number / 10;
             }
-            Console.WriteLine(result);  
+            Console.WriteLine(result); 
         }   
     }
 }
